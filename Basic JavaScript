@@ -1,0 +1,30 @@
+<!--index.html-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Basic JavaScript Projects Assignment</title>
+<meta charset="utf-8">
+<script src="JS/main.js"></script>
+</head>
+<body>NO a signle thing in a body?Really??
+</body>
+</html>
+
+//main.js
+
+//window.alert method
+window.alert ("Hello,world!");
+
+//document.write method
+document.write ("Hello again, world! This is not the first nor the last time");
+
+//creating two variables
+var Sent1 = "This is the beginning of the string";
+var Sent2 = "and this is the end of the string";
+
+//displaying the varables using the document.write method
+document.write(Sent1 + Sent2);
+
+//an expression
+document.write(33 * 84);
